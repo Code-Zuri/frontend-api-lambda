@@ -81,7 +81,10 @@ function App() {
             {displayText}
             <span style={styles.cursor}>|</span>
           </h2>
+          
         )}
+
+<h2>{mensaje}</h2>
       </div>
     </div>
   );
